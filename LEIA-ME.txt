@@ -1,0 +1,13 @@
+YOSHI WORLD — ARQUIVOS INICIAIS
+
+Arquivos:
+- index.html: página principal
+- style.css: visual e cores
+- script.js: funcionamento do botão
+
+COMO TESTAR:
+Abra o index.html no navegador do celular.
+
+IMPORTANTE PARA PUBLICAR:
+Estes são arquivos de site estático. Cloudflare Workers e Cloudflare Pages têm fluxos de publicação diferentes.
+Não apague o projeto antigo. Quando estiver pronto, diga qual tela do Cloudflare aparece para escolhermos o caminho certo.
